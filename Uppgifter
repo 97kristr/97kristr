@@ -1,0 +1,18 @@
+uppgift 4.
+A)
+for i in range(1,16): #loopar från 1 till 15, skriver 16 för den tar alltid subtaherat med 1.
+    print(i)
+    
+B)
+for i in range(20,31): #gör samma som på föregående.
+    print(i)
+    
+C)
+for i in range(0, 1001, ):
+    print(i,  end=" ")
+    
+print("")
+
+D)
+for i in range(10, -11, -1): #loopar igenom, -1 gör så att den kör baklänges.
+    print(i)
